@@ -6,13 +6,13 @@ com.featurebase
 
 استنادا إلى "قاعدة الميزات" في<https://www.featurebase.app/>
 
-Based on "Yaak on Featurebase" at <https://feedback.yaak.app/roadmap>
+استنادًا إلى "Yaak on Featuresbase" في<https://feedback.yaak.app/roadmap>
 
-## 100 - Introduction
+## 100- مقدمة
 
 يرى[README.md](./100/README.md)
 
-## 200 - Requirements
+## 200 - المتطلبات
 
 يرى[README.md](./200/README.md)
 
