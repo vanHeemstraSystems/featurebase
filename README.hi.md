@@ -6,6 +6,8 @@
 
 "फीचरबेस" पर आधारित<https://www.featurebase.app/>
 
+"फ़ीचरबेस पर याक" पर आधारित<https://feedback.yaak.app/roadmap>
+
 ## 100 - परिचय
 
 देखना[README.md](./100/README.md)
