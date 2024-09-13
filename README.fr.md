@@ -1,10 +1,12 @@
 base de fonctionnalités
 
-# Featurebase
+# Base de fonctionnalités
 
 > Rationalisez la collecte de commentaires, identifiez les opportunités de produits percutantes et évoluez plus rapidement en créant les fonctionnalités appropriées.
 
 Basé sur "Featurebase" sur<https://www.featurebase.app/>
+
+Basé sur "Yaak sur Featurebase" sur<https://feedback.yaak.app/roadmap>
 
 ## 100 - Introduction
 
