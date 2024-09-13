@@ -1,4 +1,4 @@
-特徵庫
+featurebase
 
 # 特徵庫
 
@@ -8,7 +8,7 @@
 
 基於“Yaak on Featurebase”，位於<https://feedback.yaak.app/roadmap>
 
-## 100 - 簡介
+## 100 - Introduction
 
 看[README.md](./100/README.md)
 
