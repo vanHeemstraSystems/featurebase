@@ -2,9 +2,11 @@
 
 # 特徵庫
 
-> Streamline feedback collection, identify impactful product opportunities and scale faster by building the right features.
+> 透過建立正確的功能，簡化回饋收集、識別有影響力的產品機會並更快地擴展。
 
 基於“特徵庫”<https://www.featurebase.app/>
+
+基於“Yaak on Featurebase”，位於<https://feedback.yaak.app/roadmap>
 
 ## 100 - 簡介
 
