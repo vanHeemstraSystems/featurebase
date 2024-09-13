@@ -1,10 +1,10 @@
-featurebase
+फीचरबेस
 
 # फीचरबेस
 
 > फीडबैक संग्रह को सुव्यवस्थित करें, प्रभावशाली उत्पाद अवसरों की पहचान करें और सही सुविधाओं का निर्माण करके तेजी से स्केल करें।
 
-Based on "Featurebase" at <https://www.featurebase.app/>
+"फीचरबेस" पर आधारित<https://www.featurebase.app/>
 
 "फ़ीचरबेस पर याक" पर आधारित<https://feedback.yaak.app/roadmap>
 
