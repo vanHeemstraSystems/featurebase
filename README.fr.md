@@ -1,8 +1,10 @@
-nom du référentiel
+base de fonctionnalités
 
-# Nom du référentiel
+# Featurebase
 
-Basé sur "ABC" à<https://www.abc.com/>
+> Rationalisez la collecte de commentaires, identifiez les opportunités de produits percutantes et évoluez plus rapidement en créant les fonctionnalités appropriées.
+
+Basé sur "Featurebase" sur<https://www.featurebase.app/>
 
 ## 100 - Introduction
 
