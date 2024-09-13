@@ -1,8 +1,10 @@
-儲存庫名稱
+特徵庫
 
-# 儲存庫名稱
+# 特徵庫
 
-基於“ABC”<https://www.abc.com/>
+> Streamline feedback collection, identify impactful product opportunities and scale faster by building the right features.
+
+基於“特徵庫”<https://www.featurebase.app/>
 
 ## 100 - 簡介
 
