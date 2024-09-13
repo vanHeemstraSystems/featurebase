@@ -1,10 +1,12 @@
-featurebase
+特征库
 
 # 特征库
 
 > 通过构建正确的功能，简化反馈收集、识别有影响力的产品机会并更快地扩展。
 
 基于“特征库”<https://www.featurebase.app/>
+
+基于“Yaak on Featurebase”，位于<https://feedback.yaak.app/roadmap>
 
 ## 100 - 简介
 
@@ -20,4 +22,4 @@ featurebase
 
 ## 400 - 结论
 
-看[README.md](./400/README.md)
+See [README.md](./400/README.md)
