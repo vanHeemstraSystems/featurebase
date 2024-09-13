@@ -1,7 +1,9 @@
-repository-name
-# Repository Name
+featurebase
+# Featurebase
 
-Based on "ABC" at https://www.abc.com/
+> Streamline feedback collection, identify impactful product opportunities and scale faster by building the right features.
+
+Based on "Featurebase" at https://www.featurebase.app/
 
 ## 100 - Introduction
 
