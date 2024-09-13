@@ -1,10 +1,12 @@
 com.featurebase
 
-# قاعدة الميزات
+# Featurebase
 
 > قم بتبسيط عملية جمع الملاحظات والتعرف على فرص المنتجات المؤثرة والتوسع بشكل أسرع من خلال إنشاء الميزات الصحيحة.
 
 استنادا إلى "قاعدة الميزات" في<https://www.featurebase.app/>
+
+استنادًا إلى "Yaak on Featuresbase" في<https://feedback.yaak.app/roadmap>
 
 ## 100- مقدمة
 
@@ -16,7 +18,7 @@ com.featurebase
 
 ## 300 – بناء تطبيقنا
 
-See [README.md](./300/README.md)
+يرى[README.md](./300/README.md)
 
 ## 400 - الخاتمة
 
