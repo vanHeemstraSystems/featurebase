@@ -1,10 +1,12 @@
-存储库名称
+featurebase
 
-# 存储库名称
+# 特征库
 
-基于“ABC”<https://www.abc.com/>
+> 通过构建正确的功能，简化反馈收集、识别有影响力的产品机会并更快地扩展。
 
-## 100 - Introduction
+基于“特征库”<https://www.featurebase.app/>
+
+## 100 - 简介
 
 看[README.md](./100/README.md)
 
@@ -12,9 +14,9 @@
 
 看[README.md](./200/README.md)
 
-## 300 - Building Our Application
+## 300 - 构建我们的应用程序
 
-See [README.md](./300/README.md)
+看[README.md](./300/README.md)
 
 ## 400 - 结论
 
