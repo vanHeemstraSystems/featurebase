@@ -1,3 +1,3 @@
 # 200 - Requirements
 
-- An account with Featurebase, see https://wvanheemstra.featurebase.app/
+- An account with Featurebase, see https://wvanheemstra.featurebase.app/ (authentication with Github)
